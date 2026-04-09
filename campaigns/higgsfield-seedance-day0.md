@@ -31,17 +31,19 @@
 - Creators who already posted in previous cycles → redraft and pivot for this new angle
 - New creators who haven't posted → draft fresh under this brief
 
-## WHAT INFLUENCERS DO
-1. Quote the announcement post (caption + video from MediaKit) — as soon as mother post goes LIVE
+## WHAT INFLUENCERS DO (updated order)
+1. FIRST: Separate X post/tweet (text + video from MediaKit) — post as soon as campaign goes live
 2. Wait an hour
-3. Separate X post/tweet (text + video from MediaKit)
+3. SECOND: Quote the mother post (caption + video from MediaKit)
+   - Mother post: https://x.com/higgsfield/status/2042339483375583437
 
 ## Restrictions (ICP Wave — HARD RULES)
 - **Don't mention US availability AT ALL.** Not available, not unavailable. Just skip it entirely.
 - **No Claudesfield / Mr. Higgs references** — saving that for next week
 - NO copyrighted shows/celebrities in media
 - NO "AI is replacing X" doom angles
-- NO attacks on Hollywood or affiliated parties
+- NO "RIP Hollywood", NO "[name] is jobless/useless" — BUT "Hollywood is cooked" IS okay
+- No direct attacks on specific named individuals
 - NO derogatory language about specific people
 - Fully AI-generated captions NOT accepted — rephrase in YOUR voice
 - SEND DRAFT before posting (Shown approval required)
