@@ -6,9 +6,13 @@ Scrape an influencer's X/Twitter profile and build a comprehensive voice profile
 
 1. Use Chrome MCP (tabs_context_mcp first) to navigate to https://x.com/{handle}
 2. Take a screenshot to verify profile loaded
-3. Scroll down 3-4 times to load ~50 tweets
-4. Use get_page_text to capture all visible tweet text
-5. If needed: zoom out to 80%, scroll more, capture more
+3. Use get_page_text FIRST to capture the bio + first visible tweets
+4. Scroll SLOWLY — 2-3 ticks at a time, NOT 8-10. X breaks with fast scrolling (page goes black).
+5. After each scroll: wait 1-2 seconds (use wait action), then get_page_text to capture new tweets
+6. Repeat scroll + capture 4-5 times to get ~30-50 tweets
+7. NEVER scroll more than 3 ticks at once — X's infinite scroll glitches with large scroll amounts
+8. If the page goes black: scroll back UP slowly (2 ticks), wait, then try again
+9. Fallback: if Chrome keeps glitching, use WebSearch for "from:{handle}" to find their tweets instead
 
 ## Analyze Every Tweet For:
 
