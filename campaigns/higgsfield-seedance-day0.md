@@ -1,27 +1,54 @@
-# Campaign: Higgsfield — Seedance 2.0 Day Minus 1 Access (April 9)
+# Campaign: Higgsfield — Seedance 2.0 Global Launch (April 9)
 
 ## RELEASE INFO
-- **Date:** Thursday, April 9, 9 AM PST (preliminary)
-- **What:** Seedance 2.0 arrives on Higgsfield 1 DAY BEFORE everywhere else
-- **Big news:** Available to EVERYONE, EVERYWHERE — US included
+- **Date:** Thursday, April 9, 9 AM PST
+- **What:** Seedance 2.0 global launch on Higgsfield
 - **Offer:** Unlimited for 7 days, up to 70% off, free generations available
-- **Main post link:** TBD (will be updated)
-- **MediaKit link:** TBD (will be updated)
+- **Main post link:** TBD (will be dropped when live at ~9am PST)
+- **Notion brief (ICP):** https://higgsfield-ai.notion.site/seedance-2-global
+- **Notion brief (meme):** https://higgsfield-ai.notion.site/meme-campaign-shown
+- **Inspo doc:** https://docs.google.com/document/d/1-5W_xDoSbOJAxx541RGDnWZNeLNwxVtWKV_gqdvRjYA/edit
+
+## TWO SEPARATE WAVES (DO NOT MIX)
+
+### Wave 1: ICP Smart Posts (THIS FILE)
+- For: tech/AI/money creators doing real use case QRTs
+- Target: vibe coders, hustlers. Polymarket energy. "Make money with AI" content.
+- Every post needs a REAL USE CASE. Divergent thinking, distribution, financial relevance.
+- Smart posts ONLY, no memes.
+- Shown approval = good to post.
+
+### Wave 2: Meme QRT/Reactions (SEPARATE BRIEF)
+- For: off-niche creators (soccer, boxing, etc.) who don't align with consumer ICP
+- ~30% of total coverage
+- Reactions, comedy, NOT ads
+- Uses separate meme brief: https://higgsfield-ai.notion.site/meme-campaign-shown
+- DO NOT write meme wave drafts using this file. Wait for meme brief.
+
+## Creator Routing
+- Creators IN the AI/tech/money bubble → ICP smart posts (this brief)
+- Creators NOT aligned with ICP (sports, entertainment, etc.) → meme wave (separate brief)
+- Creators who already posted in previous cycles → redraft and pivot for this new angle
+- New creators who haven't posted → draft fresh under this brief
 
 ## WHAT INFLUENCERS DO
-1. Quote the announcement post (caption + video from MediaKit)
+1. Quote the announcement post (caption + video from MediaKit) — as soon as mother post goes LIVE
 2. Wait an hour
 3. Separate X post/tweet (text + video from MediaKit)
 
-## Restrictions
-- NO attacks on Hollywood or affiliated parties ("Hollywood is done/dead" = BANNED)
-- NO derogatory language about specific people ("[Name] is now jobless" = BANNED)
-- Fully AI-generated captions are NOT accepted — rephrase in YOUR voice
-- SEND DRAFT before posting (internal review required)
+## Restrictions (ICP Wave — HARD RULES)
+- **Don't mention US availability AT ALL.** Not available, not unavailable. Just skip it entirely.
+- **No Claudesfield / Mr. Higgs references** — saving that for next week
+- NO copyrighted shows/celebrities in media
+- NO "AI is replacing X" doom angles
+- NO attacks on Hollywood or affiliated parties
+- NO derogatory language about specific people
+- Fully AI-generated captions NOT accepted — rephrase in YOUR voice
+- SEND DRAFT before posting (Shown approval required)
 - Tailor caption to YOUR audience in YOUR style
-- NO copyrighted IP (no celebrity faces, no movie/anime characters)
-- Use "Higgs" not "Higgsfield" in posts
+- "Higgsfield" or "Higgs" both fine (changed from earlier — both acceptable now)
 - "cinematic" still BANNED — describe the actual content
+- NO copyrighted IP (no celebrity faces, no movie/anime characters)
 
 ## Target Audience
 - Primary: Vibe coders, hustlers, AI-native builders, founders
@@ -161,9 +188,11 @@
 - Frame-level precision editing (modify segments, replace characters, extend scenes)
 
 ## Media Kit
-- Meme reactions: https://www.dropbox.com/scl/fo/1jm6r8gdhxi06sz7vuecf/AFOP3goTLAxa3rJFx6hs3UM?rlkey=0wte2uzl9jw1vjpea01lwrxoq&st=j5tyl9e0&dl=0
-- Product demos: https://www.dropbox.com/scl/fo/jeu3cfktj9mrg2q5gipwd/AIIDTkzd1TmYmi0zfe9UviM?rlkey=g2ay7cbaqj944gcyc2iwy0k74&dl=0
-- NEW MediaKit for April 9: TBD (link to be updated by Higgs team)
+- **NEW MediaKit for April 9 (USE THIS):** https://www.dropbox.com/scl/fo/80g48vhrb83pko2p7vx1s/AIvtHUwE2tCCmJksTBghIp8?rlkey=5jxr34zr03zf1zc0s9b5zyira&dl=0
+  - Folder is still uploading each hour — more videos coming
+  - Creators can post with available videos as soon as mother post goes LIVE
+- Meme reactions (still valid): https://www.dropbox.com/scl/fo/1jm6r8gdhxi06sz7vuecf/AFOP3goTLAxa3rJFx6hs3UM?rlkey=0wte2uzl9jw1vjpea01lwrxoq&st=j5tyl9e0&dl=0
+- Previous product demos (may still be usable): https://www.dropbox.com/scl/fo/jeu3cfktj9mrg2q5gipwd/AIIDTkzd1TmYmi0zfe9UviM?rlkey=g2ay7cbaqj944gcyc2iwy0k74&dl=0
 
 ## Paid Disclaimers
 - Don't mention to influencers — let them decide
@@ -173,8 +202,19 @@
 ## Embedding Tutorial
 https://youtu.be/OX4l8bgiRno?si=bP7qnL9ywGJSiZud
 
+## Reference Vibes
+- TikTok inspo 1: https://vt.tiktok.com/ZSHmKVPgu/
+- TikTok inspo 2: https://vt.tiktok.com/ZSHmEdjeE/
+- Energy: Polymarket, "make money with AI", divergent thinking, distribution, financial relevance
+
 ## Notes
-- This is the DAY MINUS 1 brief — tomorrow's posts, not today's
-- For TODAY (April 8): use higgsfield-seedance.md (no global release info)
-- For TOMORROW (April 9): use THIS file (global release, US available, 70% off)
+- This is the GLOBAL LAUNCH brief — April 9 posts
+- Same campaign, same roster, same pay, DIFFERENT angle and mother post
+- Most drafts need to be REAPPROVED against this new brief before posting
+- It's a topup: more budget, creators posting again + new creators pivoting to this angle
+- For previous cycle (April 8): use higgsfield-seedance.md
+- For this cycle (April 9 ICP wave): use THIS file
+- For meme wave (April 9): wait for meme brief, use separate file
 - Brief is for personal use only — not for public sharing
+- Mother post will be dropped in Slack/comms when live at ~9am PST
+- Shown approval = good to post. Turn drafts around fast.
