@@ -188,9 +188,10 @@
 - Frame-level precision editing (modify segments, replace characters, extend scenes)
 
 ## Media Kit
-- **NEW MediaKit for April 9 (USE THIS):** https://www.dropbox.com/scl/fo/80g48vhrb83pko2p7vx1s/AIvtHUwE2tCCmJksTBghIp8?rlkey=5jxr34zr03zf1zc0s9b5zyira&dl=0
-  - Folder is still uploading each hour — more videos coming
-  - Creators can post with available videos as soon as mother post goes LIVE
+- **NEW MediaKit for April 9 (USE THIS):** https://www.dropbox.com/scl/fo/80g48vhrb83pko2p7vx1s/AMZlbJcANyeJC8DEW5j9Wdc/All%20Watermarked?rlkey=5jxr34zr03zf1zc0s9b5zyira&subfolder_nav_tracking=1&dl=0
+  - 22 watermarked demo videos (01.mp4 through 22.mp4) from Danial Akanov (Higgsfield)
+  - All videos are Seedance 2.0 demos showing various capabilities
+  - Creators pick whichever video best fits their narrative/use case
 - Meme reactions (still valid): https://www.dropbox.com/scl/fo/1jm6r8gdhxi06sz7vuecf/AFOP3goTLAxa3rJFx6hs3UM?rlkey=0wte2uzl9jw1vjpea01lwrxoq&st=j5tyl9e0&dl=0
 - Previous product demos (may still be usable): https://www.dropbox.com/scl/fo/jeu3cfktj9mrg2q5gipwd/AIIDTkzd1TmYmi0zfe9UviM?rlkey=g2ay7cbaqj944gcyc2iwy0k74&dl=0
 
