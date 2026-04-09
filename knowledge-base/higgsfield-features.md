@@ -97,6 +97,23 @@ Full list including: Explosion, Flame On, Fire Element, Earth Bending, Water Ben
 
 ---
 
+## Narrative-to-Feature Cross-Reference
+
+| Narrative | Higgsfield Feature | Best For | Key Numbers |
+|-----------|-------------------|----------|-------------|
+| 1. CGI Effects | Seedance 2.0 | VFX spectacle, action accounts | $60K-$90K → text prompt, $5K/shot service = $50K/month |
+| 2. First-Last Frame | FLF capability | Creative, animators, storytellers | $150K-$300K/episode → two photos + subscription |
+| 3. Gap Closure | Extend + Interim Video | Business, production accounts | $15K-$40K reshoot → $3K-$6K service, $60K+/month |
+| 4. Object Replace | Edit / Object Replace | Business, service builders | $22K-$35K/fix → $2K service, $45K-$90K/month |
+| 5. Style Transfer | Style Transfer | Creative, fashion, film | Previously impossible, $8K-$15K/project, zero competitors |
+| 6. Motion Design | Seedance 2.0 | Design, agency accounts | $8K title sequence → one prompt, unlimited revisions, $79K/month |
+| 7. Product Ad | Click-to-Ad, UGC Factory | DTC, ecom, marketing | $48K agency → $15/month, 19 variations in 90 min |
+| 8. Mixed Styles | Seedance 2.0 (mixed mode) | SaaS founders, vibe coders | Cartoon + realistic, screen recordings don't convert |
+| 9. Comic Animation | Comic Book Animation | Manga/webtoon, entertainment | 100K titles never animated, creator keeps 100% IP, $500K-$2M licensing |
+| 10. Full Launch | All features | News wire, general tech | Wealth + Distribution + Gatekeeping Dead |
+
+---
+
 ## Pricing
 
 - **Free:** $0, 10 credits/day

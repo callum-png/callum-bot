@@ -49,6 +49,9 @@ Extract from the user's message:
 If minimal input (just a handle): improvise, run full research, use active campaign.
 Load campaign file if one exists. Check conversation history for campaign context.
 
+**LOAD CAMPAIGN NARRATIVES (mandatory):**
+Read the active campaign file (campaigns/*.md) and extract ALL available narratives with their specific numbers, revenue math, and use cases. These are your raw material for drafts — never write without consulting them first. The narratives contain pre-researched cost comparisons and service models approved by the client.
+
 ---
 
 ### PHASE 2: INFLUENCER RESEARCH (~3 min, cached)
@@ -115,6 +118,35 @@ A fashion page? → Soul 2.0 + Photodump creating consistent character shoots
 A meme account? → Visual Effects (200+ presets) creating absurd spectacles
 
 The spectacle sells the product. Not your words.
+
+**MANDATORY: NARRATIVE ROTATION FROM CAMPAIGN BRIEF**
+
+Before writing, check which narratives exist in the active campaign file. Each draft for each influencer MUST use a DIFFERENT narrative. Never default to the same angle twice in a row.
+
+For Higgsfield, the 10 narratives are:
+1. CGI Effects — $60K-$90K VFX shot → text prompt. Service: $5K/shot, 10/month = $50K/month
+2. First-Last Frame — two photos → full animated sequence. Storyboard becomes the film.
+3. Gap Closure Service — $60K+/month filling footage gaps productions can't afford to reshoot
+4. Object Replace — $22K-$35K per fix → $2K service. 30/month = $45K-$90K
+5. Style Transfer — previously impossible at any price. Zero competitors. First-movers own the market.
+6. Motion Design — $8K title sequence → one prompt, unlimited revisions. CD always picks you.
+7. Product Ad / UGC — 19 ad variations from one photo in 90 minutes. $48K agency → $15/month.
+8. Mixed Styles — cartoon for the problem, realistic for the solution. SaaS distribution format.
+9. Comic Book Animation — 100,000 manga titles never animated. Creator keeps 100% IP.
+10. Full Launch — Wealth + Distribution + Gatekeeping Dead. Three opportunity categories.
+
+ROTATION RULES:
+- 3 drafts per influencer = 3 DIFFERENT narratives
+- Match narratives to the influencer's niche:
+  - Crypto/finance → narratives 1, 3, 4, 5, 7
+  - Creative/design → narratives 2, 5, 6, 8, 9
+  - Business/startup → narratives 3, 4, 7, 10
+  - Vibe coder/hustler → narratives 1, 3, 4, 7, 8
+  - News wire → narratives 1, 4, 7, 10
+  - Entertainment/meme → narratives 1, 2, 8, 9
+- Use the SPECIFIC NUMBERS from each narrative — don't invent your own
+- Each narrative has its own revenue math — USE IT
+- Track which narratives you've used across handles in the same batch to maximize diversity
 
 **STORYTELLING DNA (use on at least 1 draft per influencer)**
 
