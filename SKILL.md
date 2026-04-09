@@ -297,6 +297,7 @@ This skill references knowledge-base files in the callum-bot repo:
 - `knowledge-base/writing-dna.md` — Cal's writing rules
 - `knowledge-base/storytelling-dna.md` — @chasedownleads narrative patterns
 - `knowledge-base/charlie-light-strategies.md` — Charlie Light's complete viral playbook (QRT standalone test, format reworking system, storytelling format, intentional errors, batch writing, hot formats, influencer selection, paid disclaimers)
+- `knowledge-base/cal-revision-psychology.md` — Cal's 7 revision rules: confrontational openers, front-load value, sarcasm over negation, explain the why inline casually, challenge closers, kill product specs, internet shorthand
 - `knowledge-base/stop-slop.md` — anti-AI writing checklist
 - `knowledge-base/higgsfield-features.md` — full feature map
 - `campaigns/` — active campaign briefs with restrictions
