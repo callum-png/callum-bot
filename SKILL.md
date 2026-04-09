@@ -202,6 +202,7 @@ Style:
 - "And" at start creates conversational pause
 - Approximate numbers sound human
 - Break cost comparisons into two separate sentences
+- **5TH GRADE READING LEVEL — MANDATORY.** Every draft must be readable by a 12-year-old. No jargon. No compound sentences. No words over 3 syllables unless they're product names or dollar amounts. Short words. Short sentences. If you have to explain what a word means, use a simpler word. "Render" → "make." "Generate" → "create." "Infrastructure" → never use this word. The dumber it reads, the wider it travels.
 
 **KILL LIST (banned in ALL drafts):**
 - "Most people don't realize" — LinkedIn cliche
