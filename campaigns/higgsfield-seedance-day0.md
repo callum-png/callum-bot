@@ -189,9 +189,40 @@
 
 ## Media Kit
 - **NEW MediaKit for April 9 (USE THIS):** https://www.dropbox.com/scl/fo/80g48vhrb83pko2p7vx1s/AMZlbJcANyeJC8DEW5j9Wdc/All%20Watermarked?rlkey=5jxr34zr03zf1zc0s9b5zyira&subfolder_nav_tracking=1&dl=0
-  - 22 watermarked demo videos (01.mp4 through 22.mp4) from Danial Akanov (Higgsfield)
-  - All videos are Seedance 2.0 demos showing various capabilities
-  - Creators pick whichever video best fits their narrative/use case
+  - 22 watermarked Seedance 2.0 demos (01-22.mp4) from Danial Akanov (Higgsfield)
+
+### New Media Kit Video Catalogue (from thumbnails):
+- **01.mp4** — Blonde woman close-up, dramatic/surprised expression. BEST FOR: realistic human generation demo
+- **02.mp4** — Shirtless muscular man, action/fighting. BEST FOR: action/spectacle accounts, fitness
+- **03.mp4** — Two characters martial arts/action sequence. BEST FOR: gaming, entertainment, fight spectacle
+- **04.mp4** — Green creature/monster close-up, cat/dragon eyes. BEST FOR: fantasy, gaming, "what is this" scroll-stopper
+- **05.mp4** — Person walking in white/misty environment. BEST FOR: atmospheric/cinematic, travel, mood
+- **06.mp4** — Muscular man action pose, fighting scene. BEST FOR: action, combat, spectacle
+- **07.mp4** — Character with weapon, dark dramatic lighting. BEST FOR: gaming, dark fantasy, action
+- **08.mp4** — Horse riding scene, western/adventure. BEST FOR: adventure, western, nature accounts
+- **09.mp4** — Person in gray/white scene. BEST FOR: atmospheric, minimal, mood content
+- **10.mp4** — Dark scene, person crouching. BEST FOR: dark/moody, thriller, mystery
+- **11.mp4** — Action scene, character in motion, blue tones. BEST FOR: action, sci-fi, spectacle
+- **12.mp4** — Dark action with energy/power effects. BEST FOR: superhero, gaming, VFX showcase
+- **13.mp4** — Person walking, gray urban scene. BEST FOR: realistic human demo, urban, lifestyle
+- **14.mp4** — Dark confrontation/dramatic moment. BEST FOR: drama, thriller, storytelling
+- **15.mp4** — Pink/purple energy effects, character fighting. BEST FOR: anime-style, gaming, VFX
+- **16.mp4** — Pink/purple power effects, action. BEST FOR: anime-style, gaming, visual effects
+- **17.mp4** — Person standing, casual scene. BEST FOR: realistic AI human, lifestyle
+- **18.mp4** — Woman talking/presenting, very realistic. BEST FOR: UGC/avatar demo, "is this person real?" angle
+- **19.mp4** — Red dramatic lighting, woman. BEST FOR: fashion, mood, dramatic visual
+- **20.mp4** — Pink/purple effects, character. BEST FOR: fantasy, VFX, spectacle
+- **21.mp4** — Person walking scene. BEST FOR: realistic movement demo, lifestyle
+- **22.mp4** — (partial view from screenshots)
+
+### Video Matching Guide (New Media Kit):
+- **Crypto/finance accounts** → 18.mp4 (realistic AI avatar = "I could have an AI covering news 24/7") or 13.mp4 (realistic human walking)
+- **Action/gaming accounts** → 02, 03, 06, 07, 11, 12, 15 (fight/action scenes)
+- **Tech/AI/vibe coder accounts** → 01, 04, 18 (scroll-stopping quality demos)
+- **Travel/nature accounts** → 05, 08, 09 (atmospheric, adventure)
+- **Fashion/lifestyle** → 19, 17, 21 (dramatic lighting, realistic humans)
+- **Meme/humor** → 04 (monster face = "bro what"), 08 (horse riding = absurd)
+- **General scroll-stopper** → 01 (blonde woman), 04 (monster eyes), 18 (realistic woman talking)
 - Meme reactions (still valid): https://www.dropbox.com/scl/fo/1jm6r8gdhxi06sz7vuecf/AFOP3goTLAxa3rJFx6hs3UM?rlkey=0wte2uzl9jw1vjpea01lwrxoq&st=j5tyl9e0&dl=0
 - Previous product demos (may still be usable): https://www.dropbox.com/scl/fo/jeu3cfktj9mrg2q5gipwd/AIIDTkzd1TmYmi0zfe9UviM?rlkey=g2ay7cbaqj944gcyc2iwy0k74&dl=0
 
