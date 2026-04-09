@@ -4,7 +4,7 @@
 - **Date:** Thursday, April 9, 9 AM PST
 - **What:** Seedance 2.0 global launch on Higgsfield
 - **Offer:** Unlimited for 7 days, up to 70% off, free generations available
-- **Main post link:** TBD (will be dropped when live at ~9am PST)
+- **Main post link (LIVE):** https://x.com/higgsfield/status/2042293361596645731
 - **Notion brief (ICP):** https://higgsfield-ai.notion.site/seedance-2-global
 - **Notion brief (meme):** https://higgsfield-ai.notion.site/meme-campaign-shown
 - **Inspo doc:** https://docs.google.com/document/d/1-5W_xDoSbOJAxx541RGDnWZNeLNwxVtWKV_gqdvRjYA/edit
