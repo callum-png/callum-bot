@@ -26,7 +26,9 @@ Cal's complete writing rules. Every draft must pass these checks.
 - **"And" at start** creates conversational pause
 - **Approximate numbers sound human:** "around $500"
 - **Break cost comparisons** into two separate sentences
-- **Intentional typos:** "yu", "tis", "ngl"
+- **Intentional typos:** "yu", "tis", "ngl", "payed"
+- **Factual errors > spelling errors** (from Charlie Light): "CEO of Microsoft, Bill Gates" gets dozens of "he's not CEO anymore" replies = more engagement than a typo. @ThreeYearLetterman approach: 2-3 factual errors per post, each generating its own correction thread. The more things people can debate, the higher engagement.
+- **Don't fix errors once posted:** comments pointing them out = free engagement
 - **"throughout my life" after big number** makes it personal
 - **"before the lawyers show up"** instead of formal disclaimers
 - **Pop culture anchors:** Mr. Beast, Will Smith, TikTok CRP

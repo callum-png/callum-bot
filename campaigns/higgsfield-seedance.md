@@ -97,6 +97,13 @@
 - Gaming/entertainment: pov/, fight/
 - STOP defaulting to the same video for everyone. Match to the person.
 
+## Paid Disclaimers (from Charlie Light call, April 8)
+- For meme QRTs: gray area. Don't mention paid disclaimers to influencers — let them decide.
+- If the post is commentary/meme that can't be directly tied to a paid endorsement, don't bring it up.
+- The creator is ultimately the one posting — it's their call on disclosure.
+- For posts that are clearly standalone memes/jokes that happen to QRT the product: no need to flag.
+- Don't be the party that advises on legal risk.
+
 ## Notes
 - Core angle: How can vibe coders and hustlers MAKE MONEY using Higgsfield? Think Polymarket approach.
 - YouTube automation is a huge angle — faceless channels pulling $3K-$15K/month

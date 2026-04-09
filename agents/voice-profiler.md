@@ -36,6 +36,13 @@ Scrape an influencer's X/Twitter profile and build a comprehensive voice profile
 - How they close tweets (question, statement, kicker, emoji, nothing)
 - Attention-grabbing openers
 
+### Engagement Quality Assessment (Charlie Light criteria)
+- Check BASELINE likes — not follower count. What do their regular (non-viral) posts get?
+- Flag if: 200K+ followers but <50 likes per post = audience not paying attention
+- Look for CONSISTENT engagement (few hundred likes minimum), not just occasional viral spikes
+- Calculate approximate ratio: average likes / followers. Below 0.1% = weak audience.
+- Check if account pivoted topic or built following a long time ago (explains low engagement)
+
 ### Niche Feature Mapping
 - What is this person's world? (sports, tech, fashion, business, memes)
 - What product features would create the most viral use case for their audience?

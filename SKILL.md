@@ -79,9 +79,26 @@ Launch 3 sub-agents simultaneously:
 
 See agents/ directory for full sub-agent instructions.
 
+Also during research:
+- Browse memelord.com for reaction media options (in addition to Dropbox media kits)
+- Save viral post formats found during timeline research for future reuse (organized by month)
+
 ---
 
 ### PHASE 4: DRAFT CREATION (~5 min)
+
+**CHARLIE LIGHT'S QRT STANDALONE TEST (mandatory on every QRT):**
+"If someone sees ONLY the QRT without the quoted tweet, does it still make sense and engage?"
+If the answer is no → the QRT depends on people reading/watching the mother post → it will underperform → REWRITE.
+The QRT should work as its own standalone post. The quote underneath is context, not the content.
+
+**VIRAL FORMAT REWORKING (do this BEFORE writing from scratch):**
+Search for proven viral formats (from bookmarks, timeline research, or memelord.com) and rework them for this topic. Don't invent from scratch when you can remix what's already proven. Go BACK 3+ months for formats people forgot about — don't use something from the last week.
+
+For a specific influencer: pull up their top posts + pull up other viral posts → combine the two.
+
+**BATCH BY CATEGORY:**
+When writing for multiple influencers, group by type (meme accounts together, serious accounts together, sports accounts together). Ideas flow once you're in the rhythm of a category. First 2-3 are hardest, then 5-10 ideas come at once.
 
 Synthesize ALL research. Write 2-3 drafts per influencer.
 
@@ -246,6 +263,7 @@ This skill references knowledge-base files in the callum-bot repo:
 - `knowledge-base/performance-matrix.md` — format breakout rates
 - `knowledge-base/writing-dna.md` — Cal's writing rules
 - `knowledge-base/storytelling-dna.md` — @chasedownleads narrative patterns
+- `knowledge-base/charlie-light-strategies.md` — Charlie Light's complete viral playbook (QRT standalone test, format reworking system, storytelling format, intentional errors, batch writing, hot formats, influencer selection, paid disclaimers)
 - `knowledge-base/stop-slop.md` — anti-AI writing checklist
 - `knowledge-base/higgsfield-features.md` — full feature map
 - `campaigns/` — active campaign briefs with restrictions
