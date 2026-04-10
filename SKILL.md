@@ -86,6 +86,11 @@ Also during research:
 - Browse memelord.com for reaction media options (in addition to Dropbox media kits)
 - Save viral post formats found during timeline research for future reuse (organized by month)
 
+**OPTIONAL: X Timeline Scrape (past 48 hrs)**
+If Cal provides pasted timeline data or asks for a scrape, use Chrome MCP to search:
+`https://x.com/search?q=min_faves%3A5000%20lang%3Aen%20-filter%3Areplies%20since%3A{2_days_ago}&src=typed_query&f=top`
+Cal will Ctrl+A the results for speed. Save findings to `research/viral-{YYYY-MM-DD}.md` — extract hooks, formats, and mechanics that are working RIGHT NOW. Use these to inform drafts in Phase 4.
+
 ---
 
 ### PHASE 4: DRAFT CREATION (~5 min)
