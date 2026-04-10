@@ -219,6 +219,16 @@ You have so many tools out there you can use to scale, but you're too worried ab
 - Some drafts should be pure curiosity drivers: "this has been going around my timeline all day" or "why does this have X views"
 - Works especially well for influencers who don't normally post about AI/video tools — the "i dont usually post stuff like this but" angle
 
+## 22. SIMPLICITY IS THE VIRAL MECHANIC — KILL ALL JARGON
+- The tweets that hit 1M+ views are DEAD SIMPLE. "People who spent $599... now watching." One sentence. A kid gets it.
+- Never use words like: arbitrage, risk-adjusted, spread compression, market dislocation, unit economics, impermanent loss, cost curve, overhead delta, margin compression
+- These are finance essay words. Nobody reads finance essays on Twitter. They scroll past them.
+- Even if the influencer uses complex vocabulary in their real posts, the SPONSORED post needs to be simple bc it needs MASS reach, not niche reach
+- The intelligence is in WHICH comparison you pick, not in how many syllables you use
+- One concept per tweet. One comparison. One punchline. That's it.
+- If a tweet has more than ONE idea in it, it's too complex. Split it up or kill the weaker idea.
+- Test: read the tweet out loud in 5 seconds. If you can't, it's too long and too complex.
+
 ---
 
 ## HOW TO APPLY
