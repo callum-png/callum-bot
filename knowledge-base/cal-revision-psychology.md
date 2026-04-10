@@ -127,6 +127,25 @@ You have so many tools out there you can use to scale, but you're too worried ab
 - The brief's narratives about gap closure, object replace, style transfer etc. are SERVICE BUSINESSES that hustlers can build. Not film industry news.
 - Always ask: "Would a 22-year-old hustler who has never touched a camera care about this?" If no, reframe it until yes.
 
+## 12. ORGANIC PRODUCT INTEGRATION, NOT PRODUCT-ORIENTED STORIES
+- Current problem: every story is BUILT AROUND Higgsfield. The whole plot exists to mention the product.
+- Fix: tell a real story first. The product shows up naturally INSIDE the story, not as the reason the story exists.
+- BAD: "this guy built a service on Seedance 2.0 on Higgsfield doing fixes for $2K" — the story only exists to sell the product
+- GOOD: "my buddy quit his editing job 3 months ago. started fixing mistakes in TV shows for $2K each. makes $40K/month now. i asked what tool he uses. Seedance 2.0 on Higgsfield" — the story is about the GUY, the product is the answer to a question inside the story
+- The product should feel like a discovery inside the narrative, not the scaffolding the narrative is built on
+
+## 13. GIVE 3 DRAFT OPTIONS PER CREATOR (mixed formats)
+- Draft 1: SMART STORY — storytelling format with organic product integration, easy to understand, realistic verbiage
+- Draft 2: SMART STORY — different narrative, different angle, same organic integration
+- Draft 3: PUNCHY ONE-LINER or SHORT NON-STORY — not everything needs to be a story. Sometimes a 1-2 line reaction or observation hits harder. Let the video do the work.
+
+## 14. KEEP STORIES SIMPLE AND REALISTIC
+- The stories are getting too complex and far-fetched. The concepts need to be dead simple.
+- A 12-year-old should be able to follow the plot, not just the words
+- Don't cram too many numbers into one story. One big number is enough.
+- The product name appears ONCE, naturally, not woven into every sentence
+- "Seedance 2.0 on Higgsfield" appears at most 1-2 times per draft, not 3-4
+
 ---
 
 ## HOW TO APPLY
