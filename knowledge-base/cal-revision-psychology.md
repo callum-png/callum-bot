@@ -146,6 +146,20 @@ You have so many tools out there you can use to scale, but you're too worried ab
 - The product name appears ONCE, naturally, not woven into every sentence
 - "Seedance 2.0 on Higgsfield" appears at most 1-2 times per draft, not 3-4
 
+## 15. EVERY CREATOR GETS A UNIQUE STORY — NO SHARED PLOTS ACROSS HANDLES
+- The SPECIFIC story (characters, scenario, numbers, outcome) must be different for every single creator
+- If Creator A tells a story about "a guy who fixes mistakes in TV shows for $2K," NO OTHER CREATOR in the batch can tell that same story
+- The brief gives you 10 narratives. But each narrative can spawn INFINITE different stories. "Object Replace" (Narrative 4) could be:
+  - Creator A: "my roommate fixes logo mistakes for TV shows"
+  - Creator B: "a girl on TikTok swaps products into music videos for brands"
+  - Creator C: "someone in my discord replaces backgrounds in real estate videos"
+  - Creator D: "a freelancer on Fiverr removes ex-boyfriends from wedding videos" (humor angle)
+- Same underlying service model. Completely different characters, scenarios, and details.
+- The NUMBERS should vary too. Not every story ends with "$40K/month" and "$15 subscription." Vary the income ($8K, $22K, $35K, $60K), vary the cost ($2K, $3K, $5K), vary the details.
+- If two creators post stories with identical numbers and identical plot points, their audiences WILL cross-reference and call it out as fake sponsored content. This kills both posts.
+- **Rule:** Before writing a story, check every other draft in the batch. If the plot, numbers, or character type already exists, invent a completely new scenario. Same narrative category is fine. Same actual story is not.
+- Think of the 10 narratives as GENRES, not scripts. Each genre can have unlimited movies.
+
 ---
 
 ## HOW TO APPLY
