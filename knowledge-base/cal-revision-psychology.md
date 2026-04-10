@@ -229,6 +229,20 @@ You have so many tools out there you can use to scale, but you're too worried ab
 - If a tweet has more than ONE idea in it, it's too complex. Split it up or kill the weaker idea.
 - Test: read the tweet out loud in 5 seconds. If you can't, it's too long and too complex.
 
+## 23. NO PRODUCT SPEC BULLETS — EVER
+- "character consistency across shots", "native 2K resolution", "native audio sync", "90%+ usable output rate" — this is marketing copy, not a tweet
+- Nobody tweets product specs. When @cgtwts listed "persistent memory / scheduled jobs / event triggers" those were THINGS THE USER DOES, not engineering features
+- In RIP+bullets format, the bullets should be actions or outcomes the reader cares about:
+  - BAD: "> character consistency across shots" (spec)
+  - BAD: "> native 2K resolution" (spec)
+  - BAD: "> native audio sync" (spec)
+  - GOOD: "> type what u want and get a video back"
+  - GOOD: "> make like 20 versions from one photo"
+  - GOOD: "> the characters dont randomly change faces"
+- If the bullet could appear on a product landing page, cut it
+- The video attached to the QRT proves the quality — the text doesnt need to
+- ALSO: do NOT reuse the same bullets across multiple creators. If every RIP+bullets draft has the same 4 lines, it looks like copy-paste sponsored content
+
 ---
 
 ## HOW TO APPLY
