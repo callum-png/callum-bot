@@ -307,6 +307,7 @@ This skill references knowledge-base files in the callum-bot repo:
 - `knowledge-base/charlie-light-strategies.md` — Charlie Light's complete viral playbook (QRT standalone test, format reworking system, storytelling format, intentional errors, batch writing, hot formats, influencer selection, paid disclaimers)
 - `knowledge-base/cal-revision-psychology.md` — Cal's 18 revision rules: confrontational openers, front-load value, sarcasm over negation, explain the why inline casually, challenge closers, kill product specs, internet shorthand, unique stories per creator, 5th grade semantics, brief numbers as ingredients, target hustlers, organic integration, 3 draft formats, simple/realistic, no shared plots, mass virality, funny/shocking, varied structures
 - `knowledge-base/qrt-amplification-formats.md` — 3 proven QRT amplification formats: schadenfreude, RIP + bullets, year-vs-year comparison (from @shiri_shh 1.1M views, @cgtwts 859K, @EXM7777 423K)
+- `knowledge-base/proven-viral-higgsfield.md` — 5 proven viral Higgsfield posts with full psychology analysis + adaptations. ALL future QRTs must start from one of these 5 patterns.
 - `knowledge-base/stop-slop.md` — anti-AI writing checklist
 - `knowledge-base/higgsfield-features.md` — full feature map
 - `campaigns/` — active campaign briefs with restrictions
