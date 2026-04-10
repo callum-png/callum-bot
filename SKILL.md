@@ -95,6 +95,14 @@ Also during research:
 If the answer is no → the QRT depends on people reading/watching the mother post → it will underperform → REWRITE.
 The QRT should work as its own standalone post. The quote underneath is context, not the content.
 
+**QRT AMPLIFICATION FORMATS (use these for quoting brand announcements):**
+See `knowledge-base/qrt-amplification-formats.md` for full reference. Three proven formats:
+- **Format A: Schadenfreude** — "People who spent $X on [old way]... now watching [new way] do it for $Y" (1.1M views)
+- **Format B: RIP + Bullets** — "RIP to everyone who [old way]" → > feature bullet list → casual summary (859K views)
+- **Format C: Year vs Year** — "[thing] in 2024: > pain bullets / [thing] in 2026: > easy bullets" (423K views)
+Rules: SHORT (under 5 lines), specific dollar amounts, product name once, someone is LOSING, use > bullets for lists.
+Match format to influencer voice — schadenfreude for sarcastic accounts, RIP for blunt accounts, year-vs-year for analytical accounts.
+
 **VIRAL FORMAT REWORKING (do this BEFORE writing from scratch):**
 Search for proven viral formats (from bookmarks, timeline research, or memelord.com) and rework them for this topic. Don't invent from scratch when you can remix what's already proven. Go BACK 3+ months for formats people forgot about — don't use something from the last week.
 
@@ -297,7 +305,8 @@ This skill references knowledge-base files in the callum-bot repo:
 - `knowledge-base/writing-dna.md` — Cal's writing rules
 - `knowledge-base/storytelling-dna.md` — @chasedownleads narrative patterns
 - `knowledge-base/charlie-light-strategies.md` — Charlie Light's complete viral playbook (QRT standalone test, format reworking system, storytelling format, intentional errors, batch writing, hot formats, influencer selection, paid disclaimers)
-- `knowledge-base/cal-revision-psychology.md` — Cal's 7 revision rules: confrontational openers, front-load value, sarcasm over negation, explain the why inline casually, challenge closers, kill product specs, internet shorthand
+- `knowledge-base/cal-revision-psychology.md` — Cal's 18 revision rules: confrontational openers, front-load value, sarcasm over negation, explain the why inline casually, challenge closers, kill product specs, internet shorthand, unique stories per creator, 5th grade semantics, brief numbers as ingredients, target hustlers, organic integration, 3 draft formats, simple/realistic, no shared plots, mass virality, funny/shocking, varied structures
+- `knowledge-base/qrt-amplification-formats.md` — 3 proven QRT amplification formats: schadenfreude, RIP + bullets, year-vs-year comparison (from @shiri_shh 1.1M views, @cgtwts 859K, @EXM7777 423K)
 - `knowledge-base/stop-slop.md` — anti-AI writing checklist
 - `knowledge-base/higgsfield-features.md` — full feature map
 - `campaigns/` — active campaign briefs with restrictions
