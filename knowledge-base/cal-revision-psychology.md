@@ -118,6 +118,15 @@ You have so many tools out there you can use to scale, but you're too worried ab
 - The NUMBERS from the brief go inside the STORY. They don't ARE the story.
 - **Rule:** Never structure two drafts the same way even if they use the same narrative. The brief gives you the math. You build the movie around it. Use X timeline research, the influencer's world, trending formats, and creative divergence to wrap the numbers in something nobody has seen before.
 
+## 11. TARGET VIBE CODERS AND HUSTLERS, NOT FILMMAKERS
+- Higgsfield can do video, production, VFX, film stuff — but that audience is TINY
+- The FMA (film/media/animation) community is a small bucket. Don't write narratives that only filmmakers understand or care about.
+- EVERY narrative must be framed for vibe coders and hustlers — people who want to MAKE MONEY with AI
+- "A VFX shot costs $60K" → don't frame this as "filmmakers can now afford VFX." Frame it as "u can sell VFX shots for $5K each and make $50K/month from ur apartment"
+- "Title sequence costs $8K" → don't frame this as "motion designers rejoice." Frame it as "charge half the price, say yes to every revision, the client picks u every time"
+- The brief's narratives about gap closure, object replace, style transfer etc. are SERVICE BUSINESSES that hustlers can build. Not film industry news.
+- Always ask: "Would a 22-year-old hustler who has never touched a camera care about this?" If no, reframe it until yes.
+
 ---
 
 ## HOW TO APPLY
