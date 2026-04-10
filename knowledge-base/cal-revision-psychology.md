@@ -107,6 +107,17 @@ You have so many tools out there you can use to scale, but you're too worried ab
 - **Rule:** If the CONCEPT requires industry knowledge to understand, simplify the concept itself. Not just the words — the IDEAS must be simple. A 12-year-old should understand what you're describing, not just how you're describing it.
 - Test: explain the tweet to someone who has never touched a camera or written a line of code. If they don't get it in 5 seconds, rewrite the concept.
 
+## 10. BRIEF NUMBERS ARE RAW MATERIAL, NOT TEMPLATES
+- The brief says "19 ad variations from one photo in 90 minutes, $48K agency → $15/month"
+- AI keeps copy-pasting that EXACT sentence into every draft for every creator with the same structure
+- The numbers are INGREDIENTS. The story must be ORIGINAL each time.
+- Same economics, completely different angle:
+  - Creator A: "my cofounder asked why i was smiling at 3am. showed him 19 test ads i made during one episode of Severance"
+  - Creator B: "our agency sent us 3 options in 9 weeks. i made 19 in the time it took them to send the invoice"
+  - Creator C: "hired an agency for $48K. fired them after i saw what $15 could do in an afternoon"
+- The NUMBERS from the brief go inside the STORY. They don't ARE the story.
+- **Rule:** Never structure two drafts the same way even if they use the same narrative. The brief gives you the math. You build the movie around it. Use X timeline research, the influencer's world, trending formats, and creative divergence to wrap the numbers in something nobody has seen before.
+
 ---
 
 ## HOW TO APPLY
