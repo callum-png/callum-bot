@@ -93,6 +93,22 @@ You have so many tools out there you can use to scale, but you're too worried ab
 
 ---
 
+## 8. NEVER RECYCLE THE SAME STORY ACROSS CREATORS
+- AI wrote the "screen recording + prayer" opener for @fuelkek AND @AzFlin — exact same concept, just reskinned
+- If two creators post the same framing, it looks like copy-paste sponsored content and KILLS both posts
+- **Rule:** Track every story/concept you've used. Never reuse the same setup, same analogy, same framing across different creators in the same campaign. Each creator gets a UNIQUE angle that only makes sense from THEIR world.
+- Even if the underlying narrative is the same (e.g. Narrative 8: Mixed Styles), the STORY wrapping it must be completely different for each person.
+
+## 9. 5TH GRADE SEMANTICS, NOT JUST SYNTAX
+- AI wrote "style transfer... making it look like a Tarantino film... actual light replacement not just a LUT"
+- Nobody outside of film post-production knows what a LUT is. Nobody outside of colorists knows what "light replacement" means.
+- The 5th grade rule applies to the CONCEPTS too, not just the grammar and word length
+- "LUT" → cut it. "Light replacement" → "makes it look like a completely different movie." "Kodak stock" → "old school film look."
+- **Rule:** If the CONCEPT requires industry knowledge to understand, simplify the concept itself. Not just the words — the IDEAS must be simple. A 12-year-old should understand what you're describing, not just how you're describing it.
+- Test: explain the tweet to someone who has never touched a camera or written a line of code. If they don't get it in 5 seconds, rewrite the concept.
+
+---
+
 ## HOW TO APPLY
 
 Before delivering any draft, run it through these 7 checks:
@@ -103,3 +119,5 @@ Before delivering any draft, run it through these 7 checks:
 - [ ] Does the closer challenge the READER's behavior?
 - [ ] Any product spec language that can be cut?
 - [ ] Are full words abbreviated where a human would abbreviate them?
+- [ ] Is this story/concept UNIQUE to this creator? Not recycled from another draft?
+- [ ] Could a 12-year-old understand the CONCEPT, not just the words? No industry jargon in the ideas themselves?
