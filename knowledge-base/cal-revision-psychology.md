@@ -160,6 +160,21 @@ You have so many tools out there you can use to scale, but you're too worried ab
 - **Rule:** Before writing a story, check every other draft in the batch. If the plot, numbers, or character type already exists, invent a completely new scenario. Same narrative category is fine. Same actual story is not.
 - Think of the 10 narratives as GENRES, not scripts. Each genre can have unlimited movies.
 
+## 16. MASS VIRALITY, NOT NICHE APPEAL
+- Nobody cares about Web3 games, esports orgs, or wedding videographers. These are tiny audiences.
+- The story must make ANYONE stop scrolling — crypto bros, vibe coders, random people on the timeline, your mom
+- The story should make someone go "what the f*ck bro" and share it with their group chat
+- Think: would this story go viral if it had NOTHING to do with Higgsfield? If the answer is no, the story sucks. The story must be interesting ON ITS OWN. The product is just what the character happens to use.
+- Mass viral = funny, absurd, relatable, or jaw-dropping. Not niche, not industry-specific, not "Web3 gaming"
+
+## 17. STORIES NEED TO BE FUNNY OR SHOCKING
+- The current stories are boring. They're just "person found tool, makes money now." That's not a story, it's a case study.
+- A STORY needs a twist, a joke, an absurd detail, something that makes the reader react emotionally
+- Think @chasedownleads: "My friend makes $5,873 a month doing something simple. It's called a 'job.'" — the TWIST is the whole point
+- The reader should laugh, or say "no way," or screenshot it and send it to someone
+- If the story doesn't make YOU react when you read it back, it won't make anyone else react either
+- Add humor, absurdity, unexpected turns. Not just "guy makes $40K/month." HOW did he get there? What's the funny part? What makes this story different from a LinkedIn testimonial?
+
 ---
 
 ## HOW TO APPLY
