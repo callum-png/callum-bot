@@ -190,6 +190,35 @@ You have so many tools out there you can use to scale, but you're too worried ab
   - **Reaction format:** just reacting to the quoted video — "bro WHAT. a text prompt made this?? for $15??"
 - Each creator in a batch should use a DIFFERENT structure. If creator A uses dialogue, creator B uses reverse reveal, creator C uses timeline, etc.
 
+## 19. NEVER REUSE THE SAME NUMBERS ACROSS CREATORS
+- The brief gives RANGES ($60K-$90K, $22K-$35K). Use DIFFERENT specific numbers for every draft.
+- If Creator A says "$60K VFX shot" then Creator B says "$72K" and Creator C says "$85K"
+- Same for service charges: not always "$2K per fix." Use $2.5K, $3.5K, $4.5K
+- Same for revenue: not always "$50K/month." Use $28K, $36K, $42K, $52K
+- Same for quantities: not always "19 variations." Use "15", "22", "a dozen", "like 20"
+- Same for timeframes: not always "90 minutes." Use "an afternoon", "2 hours", "before lunch"
+- **Why:** If two different influencers post tweets with the same exact numbers ($48K, 19 variations, 90 minutes), their audiences WILL cross-reference and realize it's orchestrated by a puppeteer. This kills both posts instantly.
+- Think of the brief numbers as a PALETTE, not a script. Mix different colors every time.
+
+## 20. CREATE COGNITIVE DISSONANCE WITH SUNK COSTS
+- The Base44 tweets that hit 1M+ views work because they reference something the READER already spent money/time on
+- "People who spent $599 on a Mac Mini" — thousands of people LITERALLY did this. It's their sunk cost.
+- "now watching Base44 do it for $20/month" — the reader can't undo their purchase. Cognitive dissonance.
+- For each creator, find what THEIR SPECIFIC AUDIENCE has already invested in:
+  - Crypto audience: airdrop farming (gas fees, months of time), trading bot subscriptions, alpha group memberships, NFT mints that went to zero
+  - Builder audience: Premiere Pro/After Effects ($300+), video editing courses ($200-$500), freelancer hires ($1K-$5K), Adobe Creative Cloud ($55/month)
+  - Degen audience: PSA grading fees, card purchases, NFT mints, governance tokens
+- The sunk cost must be REAL and SPECIFIC to that audience — not hypothetical
+- "You already spent $X on [thing]... now watching [Higgs thing] do it for $15" creates the emotional response
+- The reader either feels like the loser or realizes they ARE the loser — both = engagement
+
+## 21. META-VIRAL: TALK ABOUT THE ATTENTION, NOT THE PRODUCT
+- @alifarhat79 got 484K views with: "Wow this video has racked 5 million views already. AI is crazy"
+- He didn't mention features, pricing, capabilities. Just pointed at the attention.
+- The viewer clicks through to see WHAT got 5M views. The product sells itself.
+- Some drafts should be pure curiosity drivers: "this has been going around my timeline all day" or "why does this have X views"
+- Works especially well for influencers who don't normally post about AI/video tools — the "i dont usually post stuff like this but" angle
+
 ---
 
 ## HOW TO APPLY

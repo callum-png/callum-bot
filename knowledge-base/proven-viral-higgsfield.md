@@ -183,6 +183,31 @@ video ads in 2026:
 
 ---
 
+## POST 6: @alifarhat79 — Meta-Viral (Pointing at Attention)
+**Performance:** 484K views, 4.2K likes
+**Format:** Point at the virality itself, not the product
+
+```
+Wow this video has racked 5 million views already. AI is crazy
+From Higgsfield AI
+```
+
+### Psychology Analysis:
+- Zero product specs. Zero features. Zero pricing.
+- Just points at the ATTENTION and lets curiosity do the work
+- "AI is crazy" — 5th grade language, universal reaction
+- The viewer clicks through to see WHAT got 5M views
+- The product sells itself through the quoted media
+
+### How to use this pattern:
+- Works for any account that doesn't normally post AI content
+- "this has been going around my timeline" / "why does this have X views"
+- Pair with the actual Higgsfield video (let the spectacle do the work)
+- Add a personal reaction that matches the influencer's voice
+- DON'T mention pricing, features, or capabilities — just the attention
+
+---
+
 ## MASTER PATTERNS (use these to build every future QRT)
 
 1. **Polarizing opener that filters the audience** (Bryce) — works for personality accounts
@@ -190,5 +215,9 @@ video ads in 2026:
 3. **One-sentence schadenfreude** (@shiri_shh) — works for sarcastic/blunt accounts
 4. **RIP + bullet proof** (@cgtwts) — works for news/alpha accounts
 5. **Year vs year contrast** (@EXM7777) — works for analytical/builder accounts
+6. **Meta-viral (point at the attention)** (@alifarhat79) — works for any account, especially non-AI-native ones
 
-**Pick the format that matches the influencer's voice. Never write a QRT from scratch — always start from one of these 5 patterns.**
+**Pick the format that matches the influencer's voice. Never write a QRT from scratch — always start from one of these 6 patterns.**
+
+**CRITICAL: VARY ALL NUMBERS ACROSS CREATORS (Rule 19)**
+No two drafts in a batch should use the same dollar figures. The brief gives ranges — use different specific numbers every time. If it sounds like two tweets were written by the same person, they were.
